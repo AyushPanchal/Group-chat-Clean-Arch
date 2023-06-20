@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73055759374",
+    "project_id": "gc-ca-cca0a",
+    "storage_bucket": "gc-ca-cca0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73055759374:android:6121b305229c0f51a5e05f",
+        "android_client_info": {
+          "package_name": "com.perfekt1s.chat_app_clean_architecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73055759374-u08vm90ppumhtt8ei3jk9qhe0gkhk5us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu-61HqbLGgZ4vDnXsWtN7QY9igi5Ba9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73055759374-u08vm90ppumhtt8ei3jk9qhe0gkhk5us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
